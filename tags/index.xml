@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Xiantank&#39;s Note</title>
+    <link>http://blog.xiantank.xyz/tags/</link>
+    <description>Recent content in Tags on Xiantank&#39;s Note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 01 Nov 2020 18:11:09 +0800</lastBuildDate><atom:link href="http://blog.xiantank.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>murmur</title>
+      <link>http://blog.xiantank.xyz/tags/murmur/</link>
+      <pubDate>Sun, 01 Nov 2020 18:11:09 +0800</pubDate>
+      
+      <guid>http://blog.xiantank.xyz/tags/murmur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sample</title>
+      <link>http://blog.xiantank.xyz/tags/sample/</link>
+      <pubDate>Sat, 31 Oct 2020 21:26:52 +0800</pubDate>
+      
+      <guid>http://blog.xiantank.xyz/tags/sample/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

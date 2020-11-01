@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>xiantank on Xiantank&#39;s Note</title>
+    <link>http://blog.xiantank.xyz/authors/xiantank/</link>
+    <description>Recent content in xiantank on Xiantank&#39;s Note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 01 Nov 2020 18:11:09 +0800</lastBuildDate><atom:link href="http://blog.xiantank.xyz/authors/xiantank/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>開始</title>
+      <link>http://blog.xiantank.xyz/posts/begin/</link>
+      <pubDate>Sun, 01 Nov 2020 18:11:09 +0800</pubDate>
+      
+      <guid>http://blog.xiantank.xyz/posts/begin/</guid>
+      <description>第一篇PO文!
+一開始只是想說開始了人生第二份工作, 來做些紀錄,
+雖然文筆爛到爆+表達邏輯有問題
+但總是要試試看的嘛XD
+然後就開始找有沒有哪家好用可寫code又容易搬遷的Blog // 明明連會不會有第二篇都不知道XD
+反正最後就找上了hugo
+還有看到另外有的是reby體系的jekyll, nodejs體系的hexo
+按熟悉度其實我該寫nodejs體系也許會研究比較快
+但想說反正就是打定主意要走golang體系, 所以就來玩玩看Hugo,
+但發現實際上應該除了初步安裝外, 應該哪個語言體系都沒什麼差才對, 主要還是要看該套件的文件啊XD
+&amp;ndash; Hugo是一個可以利用markdown來撰寫blog的一個生成器
+他是用Golang撰寫的, 並且可以到themes去選一套看得順眼的主題
+目前採用hugo-coder
+可以黑白切換就是爽XD
+&amp;ndash; 但文件還沒看完, 設定也還沒好好理解, 模板也是先隨便亂搞
+先上一版可以看到為第一優先
+未來再慢慢調整啦~</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://blog.xiantank.xyz/projects/</link>
+      <pubDate>Sat, 31 Oct 2020 21:26:52 +0800</pubDate>
+      
+      <guid>http://blog.xiantank.xyz/projects/</guid>
+      <description>TBD </description>
+    </item>
+    
+  </channel>
+</rss>
