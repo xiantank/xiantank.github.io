@@ -30,14 +30,20 @@ Hugo是一個可以利用markdown來撰寫blog的一個生成器
 可以黑白切換就是爽XD
 &amp;ndash;
 明明有些人標榜first blog in 30 minutes
-可是我搞了一整天, 而且文件還沒看完, 設定也還沒好好理解, 模板也是先隨便亂搞
+可是我搞了整整兩天, 而且文件還沒看完, 設定也還沒好好理解, 模板也是先隨便亂搞
 先上一版可以看到為第一優先
 未來再慢慢調整啦~
 &amp;ndash;
 目前是掛上github pages
 有用CNAME掛自己的domain, 原本還以為需要自己想辦法掛TLS上去, 原來github都幫你弄好好&amp;hellip;
-之後應該還要再來看一下別人寫的一鍵PO文的script
-看一下怎麼再調一下版型</description>
+看一下怎麼再調一下版型
+&amp;ndash;
+這次搞定這個hugo看了
+hugo大量文件跟模板設定
+終於認識了toml檔到底是什麼
+回去看了一下github pages的設定
+第一次玩git的submodule
+還算是有收穫啦 沒有浪費這兩天XD</description>
     </item>
     
     <item>
