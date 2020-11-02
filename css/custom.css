@@ -1,7 +1,17 @@
-.navigation .navigation-title {
-  font-size: xx-large;
-  letter-spacing: 0.1rem;
-  text-transform: uppercase;
+@media only screen and (min-width: 769px) {
+  .navigation .navigation-title {
+    font-size: xx-large;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+  }
+
+}
+@media only screen and (min-width: 321px) and (max-width: 768px) {
+  .navigation .navigation-title {
+    font-size: medium;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+  }
 }
 
 .bar {
