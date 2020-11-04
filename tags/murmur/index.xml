@@ -1,19 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>murmur on Xiantank&#39;s Note</title>
-    <link>http://blog.xiantank.xyz/tags/murmur/</link>
-    <description>Recent content in murmur on Xiantank&#39;s Note</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 01 Nov 2020 18:11:09 +0800</lastBuildDate><atom:link href="http://blog.xiantank.xyz/tags/murmur/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>開始</title>
-      <link>http://blog.xiantank.xyz/posts/begin/</link>
-      <pubDate>Sun, 01 Nov 2020 18:11:09 +0800</pubDate>
-      
-      <guid>http://blog.xiantank.xyz/posts/begin/</guid>
-      <description>第一篇PO文!
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>murmur on Xiantank's Note</title><link>http://blog.xiantank.xyz/tags/murmur/</link><description>Recent content in murmur on Xiantank's Note</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Sun, 01 Nov 2020 18:11:09 +0800</lastBuildDate><atom:link href="http://blog.xiantank.xyz/tags/murmur/index.xml" rel="self" type="application/rss+xml"/><item><title>開始</title><link>http://blog.xiantank.xyz/posts/begin/</link><pubDate>Sun, 01 Nov 2020 18:11:09 +0800</pubDate><guid>http://blog.xiantank.xyz/posts/begin/</guid><description>第一篇PO文!
 一開始只是想說開始了人生第二份工作, 來做些紀錄,
 雖然文筆爛到爆+表達邏輯有問題
 但總是要試試看的嘛XD
@@ -43,8 +28,4 @@ hugo大量文件跟模板設定
 終於認識了toml檔到底是什麼
 回去看了一下github pages的設定
 第一次玩git的submodule
-還算是有收穫啦 沒有浪費這兩天XD</description>
-    </item>
-    
-  </channel>
-</rss>
+還算是有收穫啦 沒有浪費這兩天XD</description></item></channel></rss>
